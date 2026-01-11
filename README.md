@@ -1,2 +1,2 @@
 # cancer-ml-model
-This AI/ML model utilizes deep learning to automate histopathology analysis. Trained on extensive datasets, it segments colorectal tissue into distinct categories like stroma and adipose. Simultaneously, it performs binary classification to distinguish between malignant and benign samples.
+This project applies deep learning to histopathology image analysis. Using a convolutional neural network trained on labeled colorectal tissue images, the model identifies and separates different tissue types such as stroma and adipose, and performs binary classification to distinguish between malignant and benign samples. I worked on data preprocessing, model training, and evaluating performance using accuracy and loss metrics.
